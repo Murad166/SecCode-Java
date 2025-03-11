@@ -13,7 +13,7 @@ TwoDArrayOperations.java – Performs multiple operations on a 2D array.
 ZigzagTraversal.java – Traverses a matrix in a zigzag pattern.
 array.java – General implementation of array-related functions.
 🚀 How to Run
-Clone this repository: 
+Clone this repository: https://github.com/Murad166/SecCode-Java.git
 
 📌 Topics Covered
 ✅ 2D Array Basics
